@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Github + Jekyll = awesome"
+title: "Github + Jekyll = Awesome"
 date: 2018-04-30
 ---
 
